@@ -1,0 +1,5 @@
+## replace github.com to ghproxy
+
+vim 
+
+%s/https:\/\/raw.githubusercontent.com/https:\/\/ghproxy.com\/https:\/\/raw.githubusercontent.com\//g
